@@ -2,7 +2,7 @@
 - 👀 I’m interested in data science and machine learning engineering.
 - 🌱 I’m currently learning and practicing on Kaggle.
 - 💞️ I’m looking to collaborate on data science projects or machine learning challenges.
-- 📫 How to reach me: ashi789@example.com or [LinkedIn](https://www.linkedin.com/in/your-profile/)
+- 📫 How to reach me: ayeshabukhari170@gmail.com or [LinkedIn](https://www.linkedin.com/in/your-profile/)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love exploring new datasets and finding hidden patterns!
 

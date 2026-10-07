@@ -8,8 +8,9 @@ I build backend systems and APIs with Python — mostly Django REST Framework an
 
 ### 💼 What I do
 
-- 🚚 **Backend Developer at Foster Hartley** (since March 2025) — building a fleet and driver management platform: dashboards and analytics endpoints, vehicle and driver compliance APIs, rota and staffing logic, document version history, and Celery-driven task alerts.
+- 🚚 **Backend Developer** (since March 2025) — building a fleet and driver management platform: dashboards and analytics endpoints, vehicle and driver compliance APIs, rota and staffing logic, document version history, and Celery-driven task alerts.
 - 🧱 Working across a multi-app Django codebase using a ViewSet → Controller → Serializer pattern, and moving newer modules toward GraphQL.
+- 🏥 Previously built async FastAPI/Flask APIs for a healthcare SaaS — JWT and cookie auth for web and mobile clients, real-time WebSocket video conferencing, HIPAA-compliant scheduling workflows, a RASA chatbot, and a voice AI agent.
 - 🎓 BS Computer Science, Edwardes College Peshawar (2024).
 
 ### 🛠️ Tech stack
